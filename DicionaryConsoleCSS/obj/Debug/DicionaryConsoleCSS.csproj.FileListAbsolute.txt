@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\DicionaryConsoleCSS\DicionaryConsoleCSS\bin\Debug\DicionaryConsoleCSS.exe.config
+C:\Users\Admin\source\repos\DicionaryConsoleCSS\DicionaryConsoleCSS\bin\Debug\DicionaryConsoleCSS.exe
+C:\Users\Admin\source\repos\DicionaryConsoleCSS\DicionaryConsoleCSS\bin\Debug\DicionaryConsoleCSS.pdb
+C:\Users\Admin\source\repos\DicionaryConsoleCSS\DicionaryConsoleCSS\obj\Debug\DicionaryConsoleCSS.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DicionaryConsoleCSS\DicionaryConsoleCSS\obj\Debug\DicionaryConsoleCSS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DicionaryConsoleCSS\DicionaryConsoleCSS\obj\Debug\DicionaryConsoleCSS.exe
+C:\Users\Admin\source\repos\DicionaryConsoleCSS\DicionaryConsoleCSS\obj\Debug\DicionaryConsoleCSS.pdb
